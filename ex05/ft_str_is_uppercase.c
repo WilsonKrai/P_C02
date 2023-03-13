@@ -6,7 +6,7 @@
 /*   By: wteles-d <wteles-d@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/13 17:37:57 by wteles-d          #+#    #+#             */
-/*   Updated: 2023/03/13 17:37:59 by wteles-d         ###   ########.fr       */
+/*   Updated: 2023/03/13 19:58:38 by wteles-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 int	ft_str_is_uppercase(char *str)
 {
-	int i;
-	int r;
+	int	i;
+	int	r;
 
 	i = 0;
 	r = 1;
